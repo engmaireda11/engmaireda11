@@ -33,11 +33,7 @@ I am Mai Reda and a third-year student in Computer Science and Artificial Intell
 
 
 
-## 📊 GitHub Stats
 
-![Mai's github stats](https://github-readme-stats.vercel.app/api?username=MaiReda&show_icons=true&theme=radical)
-
----
 
 
 
