@@ -13,7 +13,7 @@ I am Mai Reda and a third-year student in Computer Science and Artificial Intell
 
 
 - 👩‍💻  Technical Front-End Developer at **GDG     (2025)**  
-- 🌱 Skills: **C++**, **Python**, **HTML**, **CSS**, **JavaScript** ,**Bootstrap** ,**Problem solving** ,**Responsive Design**
+- 🌱 Skills: **C++**, **Python**, **HTML**, **CSS**, **JavaScript** ,**Bootstrap** ,**Problem solving** ,**Responsive Design**,**tailwind** ,**react**
 -  🛠️ **Tools:**  Git — GitHub — VS Code
 - 🤝 **PR Committee – IEEE     (2025)**
 -  👩‍💻**ITI Certified – Frontend Track**
